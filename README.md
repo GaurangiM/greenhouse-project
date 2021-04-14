@@ -1,28 +1,24 @@
-# greenhouse
+# Greenhouse 
 
-> A Vue.js project
+## :page_facing_up: Overview
+* This project is about creating an API which enables CRUD operations
+* Save the data into a database, here we used Firebase database
+* Display the data provided in a simple way
+* Show a list of days that have the second highest temperature
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+## :pencil2:  Project Description
+* You own a greenhouse with two types of tomatoes, these two tomatoes yield in different environmental conditions.
+* To monitor your greenhouse, you installed two types of sensors collecting soil and environment data.
+* You want to compare your tomato production & sensor data in a season.
 
-# serve with hot reload at localhost:8080
-npm run dev
+## ✅&nbsp; Pre-requisites
+* You need to have Vue.js and NPM locally installed.
 
-# build for production with minification
-npm run build
+## 🚀&nbsp; Tools and Technologies
+* Visual Studio Code
+* Vue
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# greenhouse-project
+## :hammer: Setup
+Clone this repo to your desktop and run `npm install` to install all the dependencies.\
+Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at `localhost:8080`.
